@@ -5,7 +5,7 @@
 * 3.Exploring The Data
 * 4.Modelling The Data
 * 5.Outcome For The Business Metric of the "Bike Sharing System" to find the  count of riders on daily basis:
-* 6. Technologies Used
+* 6.Technologies Used
 * 7.Setup Environment
 * 8.Attributes within dataset
 * 9.References
