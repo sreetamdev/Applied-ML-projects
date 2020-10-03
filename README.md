@@ -10,7 +10,6 @@
 * 8.Attributes within dataset
 * 9.References
 
-
 ###### Note: 
 * Refer the Setup Environment as there are two files namely created under Jupyter notebook: 
     * 1.BIKE_final_file.ipynb
